@@ -1,6 +1,6 @@
 ## 💡 Me  
 
-Hi there! I’m a detail-oriented **frontend developer** and a passionate **UI/UX designer** with a flair for combining creativity and technical expertise. My work is driven by a desire to deliver seamless, user-friendly digital experiences that are both visually stunning and highly functional.  
+Hi there! I’m **Sejal Bisht**, a detail-oriented **frontend developer** and a passionate **UI/UX designer** with a flair for combining creativity and technical expertise. My work is driven by a desire to deliver seamless, user-friendly digital experiences that are both visually stunning and highly functional.  
 
 ### Quick Glance at Me:  
 - 🌐 **Web Enthusiast**: Dedicated to creating responsive, accessible, and modern web applications.  
